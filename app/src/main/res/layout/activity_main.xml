@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+<com.yj.xxxrefreshlayout.RefreshLayout
+    android:id="@+id/refresh_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/tv_stop"
+        android:background="#ff0077"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</com.yj.xxxrefreshlayout.RefreshLayout>
+
+
+</android.support.constraint.ConstraintLayout>
