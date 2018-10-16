@@ -1,13 +1,13 @@
 # RefreshLayout
 自定义刷新控件
 
-allprojects {
+	allprojects {
 		repositories {
 			...
 			maven { url 'https://jitpack.io' }
 		}
 	}
   
-  dependencies {
+ 	 dependencies {
 	        implementation 'com.github.yinjinyj:RefreshLayout:Tag'
 	}
