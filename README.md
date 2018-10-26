@@ -1,6 +1,8 @@
 # RefreshLayout
 自定义刷新控件  
 [![](https://jitpack.io/v/yinjinyj/RefreshLayout.svg)](https://jitpack.io/#yinjinyj/RefreshLayout)
+
+
 	allprojects {
 		repositories {
 			...
